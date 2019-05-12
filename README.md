@@ -2,6 +2,7 @@
 
 ## Heimasíða verkefnisins:  
 **Á síðunni er farið ítarlega yfir verkefnið, myndir og myndbönd af ferlinu, hvað hefði mátt fara betur ofl.**  
+https://github.com/andri95/VF-Lokaverkefni  
 
 ## Stutt lýsing á verkefninu  
 **Ég eyddi óvart öllu út af þessu repo-i þegar ég reyndi að force pusha Unity.exe skrá í gegnum gitbash þannig ég er ekki með 
