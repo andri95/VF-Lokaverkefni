@@ -18,3 +18,9 @@ https://learn.adafruit.com/adafruit-lis3dh-triple-axis-accelerometer-breakout/ar
 **Fylgdi þessu tutoriali við gerð AR hlutans**  
 https://www.youtube.com/watch?v=MtiUx_szKbI  
 
+## Video-in ef þau loadast ekki á heimasíðunni  
+**Sýnd virknin á arduino hlutanum**  
+https://youtu.be/Ua2F-Uao2a0  
+**Sýnd virknin á AR hlutanum**  
+https://youtu.be/gL32BGk4Jsk  
+
